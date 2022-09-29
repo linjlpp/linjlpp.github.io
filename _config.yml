@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jilan Lin"
-  avatar           : "profile_jilan.jpeg"
+  avatar           : "profile1.jpg"
   bio              : "ECE PhD Student @ UCSB"
-  location         : "🏖️Santa Barbara, CA, USA"
+  location         : "Santa Barbara, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=jjiRs3QAAAAJ&hl=en"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "linjlpp"
+  # github           : "linjlpp"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jilan-lin-ucsb/"
   orcid            : 
   pinterest        :
   soundcloud       :
